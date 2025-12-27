@@ -19,7 +19,7 @@ local Translations = {
     ["Reset Character"] = "角色重置",
     ["Fly"] = "飞行",
     ["Fly Speed"] = "飞行速度", -- 补全缺失的逗号
-    ["discord.gg/Foxname"] = "此脚本由h汉化"
+    ["discord.gg/Foxname"] = "此脚本由你们爸爸h汉化
 }
 
 local function translateText(text)
